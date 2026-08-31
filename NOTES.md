@@ -6,5 +6,8 @@
 jeg ændrede tittelen til `<title>Horiseon | Digital Marketing</title>` . 
 
 
+### Opgave 3 – Kontrollér dokumentets <head>
+jeg tilføjede `<meta name="viewport" content="width=device-width, initial-scale=1.0" /> ` . 
+
 
 
