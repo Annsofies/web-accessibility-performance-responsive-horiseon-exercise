@@ -12,3 +12,9 @@ jeg tilføjede `<meta name="viewport" content="width=device-width, initial-scale
 
 ### Opgave 4 – Forbedr den semantiske HTML
 jeg lavede `<div class="header">`om til `<header class="header">`. 
+
+
+### Opgave 5 – Skab en logisk dokumentstruktur
+midlertidig deaktiveret `<link rel="stylesheet" href="./css/style.css" />` . 
+
+
