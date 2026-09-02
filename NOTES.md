@@ -3,7 +3,7 @@
 
 
 ### Opgave 2 – Giv siden en beskrivende <title>
-jeg ændrede tittelen til `<title>Horiseon | Digital Marketing</title>` . 
+jeg ændrede tittelen til ```<title>Horiseon | Digital Marketing</title>` . 
 
 
 ### Opgave 3 – Kontrollér dokumentets <head>
@@ -16,5 +16,7 @@ jeg lavede `<div class="header">`om til `<header class="header">`.
 
 ### Opgave 5 – Skab en logisk dokumentstruktur
 midlertidig deaktiveret `<link rel="stylesheet" href="./css/style.css" />` . 
+
+### Opgave 6 – Undersøg headingstrukturen
 
 
